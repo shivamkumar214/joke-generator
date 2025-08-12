@@ -44,6 +44,12 @@ Open your browser at the link provided in the terminal (usually http://localhost
 
 ![joke-generator](./src/assets/screenshot.png)
 
+
+##  Live Demo
+
+Try it out: [Joke Generator on Netlify](https://spectacular-croissant-c1c2ff.netlify.app/)
+
+
 🔗 API Used
 Official Joke API
 
