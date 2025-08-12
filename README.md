@@ -42,7 +42,7 @@ Open your browser at the link provided in the terminal (usually http://localhost
 
 🖼️ Screenshot
 
-![Joke-Generator](./assets/screenshot.png)
+![joke-generator](./assets/screenshot.png)
 
 🔗 API Used
 Official Joke API
