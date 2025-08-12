@@ -40,15 +40,13 @@ Edit
 npm run dev
 Open your browser at the link provided in the terminal (usually http://localhost:5173).
 
-🖼️ Screenshot
-
-![joke-generator](./src/assets/screenshot.png)
-
-
 ##  Live Demo
 
 Try it out: [Joke Generator on Netlify](https://spectacular-croissant-c1c2ff.netlify.app/)
 
+🖼️ Screenshot
+
+![joke-generator](./src/assets/screenshot.png)
 
 🔗 API Used
 Official Joke API
